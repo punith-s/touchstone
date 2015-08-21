@@ -1,0 +1,8 @@
+# add volume group params
+addvolumegroupparams:
+                  name: test123
+                  description: new vg
+
+# list tsm params
+listTsmRequest:
+            type: all
