@@ -7,7 +7,7 @@ Dependencies :
           
 Pre setup:
 * install cloudbyte elasticenter
-* set the elasticenter url and and admin apikey. 
+* set the elasticenter url and admin apikey. 
         
 Usage:
 * git clone http://pyyaml.org/wiki/PyYAML
