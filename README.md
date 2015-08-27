@@ -1,7 +1,7 @@
-# touchstone
+# Touchstone
 
 Touchstone will try to be the smart software that will test, regress various components of CloudByte's storage.
-Eventually, it shall be tried to replicate these regressions across various OS & ZFS based filesystems.
+Eventually, it shall be tried to replicate these regressions across various Operating Systems with ZFS based filesystems.
 
 Current features:
 * A python tool that can test CloudByte's REST APIs.
